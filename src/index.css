@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#my-extension-root {
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 9888989;
+}

@@ -17,7 +17,6 @@
 
 .modal-header h3 {
     color: white;
-    float: left;
     margin: 0;
     padding: 0;
 }
@@ -26,12 +25,15 @@
     color : black;
     padding: 10px 15px;
     text-align: center;
+    overflow-y: scroll;
+    height: 65vh;
+    width: 100%;
 }
 
 .modal-footer {
     background: #263238;
+    padding: 4px;
     height: 35px;
-    padding: 15px;
 }
 
 .close-modal-btn {
@@ -46,19 +48,21 @@
     color: black;
 }
 
-.btn-cancel, .btn-continue {
+.btn-cancel{
     background: coral;
     border: none;
     color: white;
     cursor: pointer;
     font-weight: bold;
     outline: none;
-    padding: 10px;
 }
 
 .btn-cancel {
     background-color: #b71c1c;
     float: left;
+    margin-left: 35%;
+    height: 26px;
+    width: 70px;
 }
 
 .btn-continue {
