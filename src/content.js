@@ -111,7 +111,7 @@ class Main extends Component {
                             </div>
                         ) : (
                                 <div className="modal-body">
-                                    <h2> Sorry! No similar Products found :( </h2>
+                                    <h2>Sorry! No similar Products found :(</h2>
                                 </div>
                             )
                     ) : (
