@@ -1,4 +1,4 @@
-This is the Chrome Extension which fetches you some of the best deals on a product from Amazon that you search on Flipkart and Myntra.......
+This is the Chrome Extension which fetches you some of the best deals on a product from Amazon that you search on Flipkart and Myntra.
 
 ## Steps to configure the extension
 1) Clone the repo.
