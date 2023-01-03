@@ -1,1 +1,1 @@
-write-host "hey there"
+write-output "hello world !!"
